@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on my next blockchain project
 - 🤔 I’m looking for help to combine Machine Learning with Blockchain
 - 💬 Ask me about Latest Technologies
-- 📫 How to reach me: www.twitter.com/mohiyaddeen3
+- 📫 How to reach me: [Twitter @IamMS](https://twitter.com/mohiyaddeen3)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:Blockchain is going to takeover all servers
 
