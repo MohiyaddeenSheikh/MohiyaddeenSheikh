@@ -8,3 +8,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:Blockchain is going to takeover all servers
 
+![Mohiyaddeen's github stats](https://github-readme-stats.vercel.app/api?username=MohiyaddeenSheikh)
