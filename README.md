@@ -10,19 +10,13 @@
 - ⚡ Fun fact:Blockchain is going to takeover all servers
 
 <center>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
    <a href="">
     <figure>
        <img src="https://i.ibb.co/yNxb6sD/ezgif-com-gif-maker.gif" width="400px" height="200px">
+      <img src="https://github-readme-stats.vercel.app/api?username=MohiyaddeenSheikh" width="400px" height="200px">
     </figure>
    </a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="">
-  <figure>
-       <img src="https://github-readme-stats.vercel.app/api?username=MohiyaddeenSheikh" width="400px" height="200px">
-  </figure>
-   </a>
-
 </center>
 
 <!--![Mohiyaddeen's github stats](https://github-readme-stats.vercel.app/api?username=MohiyaddeenSheikh)-->
