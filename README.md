@@ -1,11 +1,4 @@
  ![enter image description here](https://i.ibb.co/4JWPVP1/New-Project-6.png)
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
  
  <!--  ![enter image description here](https://i.ibb.co/x8VNZJF/New-Project-5.png) -->
 - 🔭 I’m currently working on Machine Learning
@@ -18,6 +11,13 @@
 - ⚡ Fun fact:Blockchain is going to takeover all servers
 
 <center>
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 
    <a href="">
     <figure>
