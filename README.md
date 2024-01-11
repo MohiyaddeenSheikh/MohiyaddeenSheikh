@@ -1,9 +1,10 @@
  ![enter image description here](https://i.ibb.co/4JWPVP1/New-Project-6.png)
  
  <!--  ![enter image description here](https://i.ibb.co/x8VNZJF/New-Project-5.png) -->
-
-name: Mohiyaddeen
-located_in: Noida
+```diff
+- name: Mohiyaddeen
++ located_in: Noida
+```
 current_job: Full Stack Developer
 education:
   [
