@@ -3,11 +3,10 @@
  <!--  ![enter image description here](https://i.ibb.co/x8VNZJF/New-Project-5.png) -->
 ```json
 name: Mohiyaddeen
-```
-```css
 located_in: Noida
-```
 current_job: Full Stack Developer
+```
+```python
 education:
   [
     "Self-Taught Developer and Designer",
@@ -33,11 +32,12 @@ technical_background:
     "Internet Of Things",
     "Hadoop",
   ]
-  
+```
+```css
 currently_learning: ["Docker, Kubernetes, and React Native"]
 2024 Goals: ["Create 20++ Projects and learn at least 5 new Technologies.."]
 hobbies: ["IOT", "Microcontrollers", "Trying New Tech Gadgets"]
-
+```
 <!-- 
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Streamlit.
