@@ -2,12 +2,12 @@
  
  <!--  ![enter image description here](https://i.ibb.co/x8VNZJF/New-Project-5.png) -->
 ```json
-name: Mohiyaddeen
-located_in: Noida
-current_job: Full Stack Developer
+Name: Mohiyaddeen
+Located_in: Noida
+Current_job: Full Stack Developer
 ```
 ```python
-education:
+Education:
   [
     "Self-Taught Developer and Designer",
     "Master's in Advance Computing and Data Science",
@@ -16,7 +16,7 @@ education:
   ]
 ```
 ```python
-fields_of_interests:
+Fields_of_interests:
   [
     "Web Development",
     "Data Science",
@@ -28,7 +28,7 @@ fields_of_interests:
   ]
 ```
 ```python
-technical_background:
+Technical_background:
   [
     "Full Stack Developer"
     "Natural Language Processing Developer",
@@ -38,13 +38,12 @@ technical_background:
   ]
 ```
 ```js
-currently_learning: ["Docker, Kubernetes, and React Native"]
+Currently_learning: ["Docker, Kubernetes, and React Native"]
 2024 Goals: ["Create 20++ Projects and learn at least 5 new Technologies.."]
-hobbies: ["IOT", "Microcontrollers", "Trying New Tech Gadgets"]
-```
+Hobbies: ["IOT", "Microcontrollers", "Trying New Tech Gadgets"]
 ```
 ```python
--:-
+
 ```
 <!-- 
 - 🔭 I’m currently working on Machine Learning
