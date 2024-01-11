@@ -4,7 +4,7 @@
 ```json
 name: Mohiyaddeen
 ```
-```react
+```js
 located_in: Noida
 ```
 current_job: Full Stack Developer
