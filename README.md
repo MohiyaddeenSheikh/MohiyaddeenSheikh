@@ -14,6 +14,8 @@ education:
     "Bachelor's in Computer Science and Engineering",
     "Diploma in Computer Science and Engineering"
   ]
+```
+```python
 fields_of_interests:
   [
     "Web Development",
@@ -24,6 +26,8 @@ fields_of_interests:
     "Cloud Computing",
     "Internet of Things"
   ]
+```
+```python
 technical_background:
   [
     "Full Stack Developer"
@@ -37,6 +41,10 @@ technical_background:
 currently_learning: ["Docker, Kubernetes, and React Native"]
 2024 Goals: ["Create 20++ Projects and learn at least 5 new Technologies.."]
 hobbies: ["IOT", "Microcontrollers", "Trying New Tech Gadgets"]
+```
+```
+```python
+
 ```
 <!-- 
 - 🔭 I’m currently working on Machine Learning
