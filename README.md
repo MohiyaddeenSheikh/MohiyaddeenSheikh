@@ -1,7 +1,7 @@
  ![enter image description here](https://i.ibb.co/4JWPVP1/New-Project-6.png)
  
  <!--  ![enter image description here](https://i.ibb.co/x8VNZJF/New-Project-5.png) -->
-```python
+```js
 Name: Mohiyaddeen
 Located_in: Noida
 Current_job: Full Stack Developer
