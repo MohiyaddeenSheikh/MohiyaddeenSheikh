@@ -4,7 +4,7 @@
 ```json
 name: Mohiyaddeen
 ```
-```bootstrap
+```python
 located_in: Noida
 ```
 current_job: Full Stack Developer
