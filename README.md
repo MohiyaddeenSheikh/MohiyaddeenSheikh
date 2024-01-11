@@ -1,7 +1,7 @@
  ![enter image description here](https://i.ibb.co/4JWPVP1/New-Project-6.png)
  
  <!--  ![enter image description here](https://i.ibb.co/x8VNZJF/New-Project-5.png) -->
- <center>
+
 name: Mohiyaddeen
 located_in: Noida
 current_job: Full Stack Developer
@@ -34,7 +34,7 @@ technical_background:
 currently_learning: ["Docker, Kubernetes, and React Native"]
 2024 Goals: ["Create 20++ Projects and learn at least 5 new Technologies.."]
 hobbies: ["IOT", "Microcontrollers", "Trying New Tech Gadgets"]
-</center>
+
 <!-- 
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Streamlit.
