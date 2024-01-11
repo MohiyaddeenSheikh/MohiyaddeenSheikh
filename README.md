@@ -37,9 +37,9 @@ Technical_background:
     "Hadoop",
   ]
 ```
-```js
+```python
 Currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 20++ Projects and learn at least 5 new Technologies.."]
+2024. Goals: ["Create 20++ Projects and learn at least 5 new Technologies.."]
 Hobbies: ["IOT", "Microcontrollers", "Trying New Tech Gadgets"]
 ```
 ```python
